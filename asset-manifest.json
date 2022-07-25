@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Jagoan-Film-Hardcode/static/css/main.d0ad41c2.css",
+    "main.js": "/Jagoan-Film-Hardcode/static/js/main.e9c1a10f.js",
+    "static/js/787.c210ecd6.chunk.js": "/Jagoan-Film-Hardcode/static/js/787.c210ecd6.chunk.js",
+    "static/media/batman.jpg": "/Jagoan-Film-Hardcode/static/media/batman.57b8bcd34cd9935800dd.jpg",
+    "static/media/captain.jpg": "/Jagoan-Film-Hardcode/static/media/captain.6e6554a6a112aae47aad.jpg",
+    "static/media/hulk.jpg": "/Jagoan-Film-Hardcode/static/media/hulk.592ce1fe58df87055ca1.jpg",
+    "static/media/alpha.jpg": "/Jagoan-Film-Hardcode/static/media/alpha.ae3020ac994a6f0805eb.jpg",
+    "static/media/blackpanther.jpg": "/Jagoan-Film-Hardcode/static/media/blackpanther.e99c6ec2c91beb8734db.jpg",
+    "static/media/wolvrine.jpg": "/Jagoan-Film-Hardcode/static/media/wolvrine.cd3855d957da5b55c421.jpg",
+    "static/media/thor.jpg": "/Jagoan-Film-Hardcode/static/media/thor.4d44dcdcf7e81e036ff4.jpg",
+    "static/media/shawshank.jpg": "/Jagoan-Film-Hardcode/static/media/shawshank.a945b4b95a9a5ec59868.jpg",
+    "static/media/vendetta.jpg": "/Jagoan-Film-Hardcode/static/media/vendetta.657439c63cba351627bd.jpg",
+    "static/media/ironman.jpg": "/Jagoan-Film-Hardcode/static/media/ironman.40f7fd7632a66b3786ee.jpg",
+    "static/media/trending.jpg": "/Jagoan-Film-Hardcode/static/media/trending.2b6555facc20976b51c7.jpg",
+    "static/media/xmen.jpg": "/Jagoan-Film-Hardcode/static/media/xmen.9df966e45dbc52ef1aa5.jpg",
+    "static/media/intro.jpg": "/Jagoan-Film-Hardcode/static/media/intro.b959e68b5fd81d3199c1.jpg",
+    "static/media/antman.jpg": "/Jagoan-Film-Hardcode/static/media/antman.6d4f47aac0d3ac8afcaa.jpg",
+    "static/media/bioskop.jpg": "/Jagoan-Film-Hardcode/static/media/bioskop.e6a50f6ca4e688888e9c.jpg",
+    "index.html": "/Jagoan-Film-Hardcode/index.html",
+    "main.d0ad41c2.css.map": "/Jagoan-Film-Hardcode/static/css/main.d0ad41c2.css.map",
+    "main.e9c1a10f.js.map": "/Jagoan-Film-Hardcode/static/js/main.e9c1a10f.js.map",
+    "787.c210ecd6.chunk.js.map": "/Jagoan-Film-Hardcode/static/js/787.c210ecd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ad41c2.css",
+    "static/js/main.e9c1a10f.js"
+  ]
+}
